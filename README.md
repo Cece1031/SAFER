@@ -2,7 +2,7 @@
 
 Official implementation of **SAFER** (SAmpling and conformalized FiltERing), a two-stage risk control framework for trustworthy question answering with Large Language Models (LLMs).
 ![Framework Overview](image/overview.png)
-[arXiv:2510.10193](https://arxiv.org/abs/2510.10193)
+You can find paper here: [arXiv:2510.10193](https://arxiv.org/abs/2510.10193)
 ## Overview
 
 As LLMs are increasingly deployed in risk-sensitive applications such as real-world open-ended question answering (QA), ensuring the trustworthiness of their outputs has become critical. SAFER addresses the limitations of existing selective conformal prediction (SCP) methods by introducing a two-stage framework:
