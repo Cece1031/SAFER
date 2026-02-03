@@ -1,4 +1,4 @@
-# SAFER: Risk-Constrained Sample-Then-Filter in Large Language Models
+# SAFER: Risk-Constrained Sample-Then-Filter in Large Language Models (ICLR2026)
 
 Official implementation of **SAFER** (SAmpling and conformalized FiltERing), a two-stage risk control framework for trustworthy question answering with Large Language Models (LLMs).
 ![Framework Overview](image/overview.png)
